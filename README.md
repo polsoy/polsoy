@@ -8,4 +8,4 @@ Soy, una persona interesada en el mundo de la programacion. Actualmente estoy cu
 - Soy un entusiasmado de la programacion.
 
 ## ⚙️ Mis Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,js,php,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,mysql,js,php,html,css,git,github)](https://skillicons.dev)
